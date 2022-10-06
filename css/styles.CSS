@@ -140,13 +140,6 @@ p{
     text-align: left;
 }
 
-.mountain{
-    width: 400px;
-        height: 400px;
-        max-width: 100%;
-        vertical-align: middle;
-        text-align: center;
-        display: inline-block;
 
 .top-cloud{
     position: absolute;
